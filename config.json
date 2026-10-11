@@ -1,0 +1,639 @@
+{
+  "schemaVersion": 1,
+  "studioVersion": "1.4.30",
+  "optimizer": {
+    "engine": "Aura Digital v5.6.4",
+    "profileKB": 500,
+    "exactAura500": true
+  },
+  "appearance": {
+    "style": "magazine",
+    "coverStyle": "centered",
+    "mobileCoverMode": "mixed",
+    "coverBoxOpacity": 100,
+    "revealStyle": "soft",
+    "studioName": "Nuestra Historia",
+    "brandMode": "logo",
+    "logoPath": "assets/img-001.png",
+    "accentColor": "#a58d63",
+    "backgroundColor": "#f5f2ec",
+    "textColor": "#2f2c28"
+  },
+  "social": {
+    "title": "Guadalupe & Emanuel",
+    "description": "Comienza la cuenta regresiva.\nAcompáñanos a celebrar nuestra unión",
+    "imageSource": "hero",
+    "publicUrl": "https://auradigitaljal.com/guadalupe-emanuel-galeria/",
+    "imagePath": "og-preview.jpg"
+  },
+  "event": {
+    "title": "Guadalupe & Emanuel",
+    "date": "2026-10-24",
+    "heroEyebrow": "Galería sesión previa",
+    "subtitle": "Comienza la cuenta regresiva.",
+    "description": "Acompáñanos a celebrar nuestra unión.",
+    "heroX": 50,
+    "heroY": 12,
+    "heroPath": "assets/img-002.jpg"
+  },
+  "sectionOrder": [
+    "videos",
+    "getting-ready",
+    "misa",
+    "recepcion",
+    "vals",
+    "fiesta"
+  ],
+  "sections": [
+    {
+      "id": "getting-ready",
+      "label": "Sesión previa by Visual Arts",
+      "title": "Guadalupe & Emanuel",
+      "enabled": true,
+      "x": 50,
+      "y": 41,
+      "layout": "editorial",
+      "highlightsEnabled": true,
+      "highlightsCount": 6,
+      "galleryDisplay": "manual",
+      "bannerPath": "assets/img-003.jpg"
+    },
+    {
+      "id": "misa",
+      "label": "Misa",
+      "title": "La Ceremonia",
+      "enabled": false,
+      "x": 50,
+      "y": 52,
+      "layout": "editorial",
+      "highlightsEnabled": true,
+      "highlightsCount": 6,
+      "galleryDisplay": "manual",
+      "bannerPath": ""
+    },
+    {
+      "id": "recepcion",
+      "label": "Recepción",
+      "title": "La Recepción",
+      "enabled": false,
+      "x": 50,
+      "y": 50,
+      "layout": "masonry",
+      "highlightsEnabled": false,
+      "highlightsCount": 6,
+      "galleryDisplay": "manual",
+      "bannerPath": ""
+    },
+    {
+      "id": "vals",
+      "label": "Vals",
+      "title": "Nuestro Vals",
+      "enabled": false,
+      "x": 50,
+      "y": 50,
+      "layout": "carousel",
+      "highlightsEnabled": false,
+      "highlightsCount": 6,
+      "galleryDisplay": "manual",
+      "bannerPath": ""
+    },
+    {
+      "id": "fiesta",
+      "label": "Fiesta",
+      "title": "La Fiesta",
+      "enabled": false,
+      "x": 50,
+      "y": 50,
+      "layout": "masonry",
+      "highlightsEnabled": false,
+      "highlightsCount": 6,
+      "galleryDisplay": "manual",
+      "bannerPath": ""
+    }
+  ],
+  "photos": [
+    {
+      "id": "pmuw1h9m219",
+      "name": "_DSC3030 copia.jpg",
+      "section": "getting-ready",
+      "width": 2000,
+      "height": 3000,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "assets/img-004.jpg"
+    },
+    {
+      "id": "pmuw1h9cg18",
+      "name": "_DSC3037 copia.jpg",
+      "section": "getting-ready",
+      "width": 3000,
+      "height": 2000,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "assets/img-005.jpg"
+    },
+    {
+      "id": "pmuw1h8z517",
+      "name": "_DSC3055 copia.jpg",
+      "section": "getting-ready",
+      "width": 2000,
+      "height": 3000,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "assets/img-006.jpg"
+    },
+    {
+      "id": "pmuw1h8n116",
+      "name": "_DSC3077 copia 1.jpg",
+      "section": "getting-ready",
+      "width": 2000,
+      "height": 3000,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "assets/img-007.jpg"
+    },
+    {
+      "id": "pmuw1h8et15",
+      "name": "_DSC3082 copia.jpg",
+      "section": "getting-ready",
+      "width": 3000,
+      "height": 2000,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "assets/img-008.jpg"
+    },
+    {
+      "id": "pmuw1h7xo14",
+      "name": "_DSC3095 copia.jpg",
+      "section": "getting-ready",
+      "width": 2000,
+      "height": 3000,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "assets/img-009.jpg"
+    },
+    {
+      "id": "pmuw1h7kk13",
+      "name": "_DSC3098 copia.jpg",
+      "section": "getting-ready",
+      "width": 3000,
+      "height": 2000,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "assets/img-010.jpg"
+    },
+    {
+      "id": "pmuw1h75z12",
+      "name": "_DSC3100 copia.jpg",
+      "section": "getting-ready",
+      "width": 3000,
+      "height": 2000,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "assets/img-011.jpg"
+    },
+    {
+      "id": "pmuw1h6rn11",
+      "name": "_DSC3111 copia 1.jpg",
+      "section": "getting-ready",
+      "width": 3000,
+      "height": 2000,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "assets/img-012.jpg"
+    },
+    {
+      "id": "pmuw1h6a9z",
+      "name": "_DSC3119 copia.jpg",
+      "section": "getting-ready",
+      "width": 3000,
+      "height": 2000,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "assets/img-013.jpg"
+    },
+    {
+      "id": "pmuw1h5why",
+      "name": "_DSC3128 copia.jpg",
+      "section": "getting-ready",
+      "width": 2000,
+      "height": 3000,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "assets/img-014.jpg"
+    },
+    {
+      "id": "pmuw1h6j810",
+      "name": "_DSC3133 copia 1.jpg",
+      "section": "getting-ready",
+      "width": 2000,
+      "height": 3000,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "assets/img-003.jpg"
+    },
+    {
+      "id": "pmuw1guux1",
+      "name": "_DSC3134 copia 1.jpg",
+      "section": "getting-ready",
+      "width": 2000,
+      "height": 3000,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "assets/img-015.jpg"
+    },
+    {
+      "id": "pmuw1gv7m2",
+      "name": "_DSC3134 copia.jpg",
+      "section": "getting-ready",
+      "width": 2000,
+      "height": 3000,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "assets/img-016.jpg"
+    },
+    {
+      "id": "pmuw1h5jxx",
+      "name": "_DSC3171 copia.jpg",
+      "section": "getting-ready",
+      "width": 2000,
+      "height": 3000,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "assets/img-017.jpg"
+    },
+    {
+      "id": "pmuw1h53bv",
+      "name": "_DSC3182 copia 2.jpg",
+      "section": "getting-ready",
+      "width": 3000,
+      "height": 2000,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "assets/img-018.jpg"
+    },
+    {
+      "id": "pmuw1h5f1w",
+      "name": "_DSC3196 copia.jpg",
+      "section": "getting-ready",
+      "width": 3000,
+      "height": 2000,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "assets/img-019.jpg"
+    },
+    {
+      "id": "pmuw1h4qxu",
+      "name": "_DSC3211 copia.jpg",
+      "section": "getting-ready",
+      "width": 2000,
+      "height": 3000,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "assets/img-020.jpg"
+    },
+    {
+      "id": "pmuw1h4gnt",
+      "name": "_DSC3219 copia.jpg",
+      "section": "getting-ready",
+      "width": 2000,
+      "height": 3000,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "assets/img-021.jpg"
+    },
+    {
+      "id": "pmuw1h42ls",
+      "name": "_DSC3245 copia.jpg",
+      "section": "getting-ready",
+      "width": 3000,
+      "height": 2000,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "assets/img-022.jpg"
+    },
+    {
+      "id": "pmuw1h3n1r",
+      "name": "_DSC3278 copia.jpg",
+      "section": "getting-ready",
+      "width": 2000,
+      "height": 3000,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "assets/img-023.jpg"
+    },
+    {
+      "id": "pmuw1h3azq",
+      "name": "_DSC3366 copia.jpg",
+      "section": "getting-ready",
+      "width": 3000,
+      "height": 2000,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "assets/img-024.jpg"
+    },
+    {
+      "id": "pmuw1h316p",
+      "name": "_DSC3419 copia.jpg",
+      "section": "getting-ready",
+      "width": 2000,
+      "height": 3000,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "assets/img-025.jpg"
+    },
+    {
+      "id": "pmuw1h2wco",
+      "name": "_DSC3458 copia.jpg",
+      "section": "getting-ready",
+      "width": 3000,
+      "height": 2000,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "assets/img-026.jpg"
+    },
+    {
+      "id": "pmuw1h2knn",
+      "name": "_DSC3471 copia.jpg",
+      "section": "getting-ready",
+      "width": 2000,
+      "height": 3000,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "assets/img-027.jpg"
+    },
+    {
+      "id": "pmuw1h2gcm",
+      "name": "_DSC3495 copia.jpg",
+      "section": "getting-ready",
+      "width": 2000,
+      "height": 3000,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "assets/img-028.jpg"
+    },
+    {
+      "id": "pmuw1h248l",
+      "name": "_DSC3541 copia.jpg",
+      "section": "getting-ready",
+      "width": 2000,
+      "height": 3000,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "assets/img-029.jpg"
+    },
+    {
+      "id": "pmuw1h1qbk",
+      "name": "_DSC3549 copia.jpg",
+      "section": "getting-ready",
+      "width": 2000,
+      "height": 3000,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "assets/img-030.jpg"
+    },
+    {
+      "id": "pmuw1h1d2j",
+      "name": "_DSC3560 copia.jpg",
+      "section": "getting-ready",
+      "width": 3000,
+      "height": 2000,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "assets/img-031.jpg"
+    },
+    {
+      "id": "pmuw1h0wui",
+      "name": "_DSC3571 copia.jpg",
+      "section": "getting-ready",
+      "width": 3000,
+      "height": 2000,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "assets/img-032.jpg"
+    },
+    {
+      "id": "pmuw1h0f0h",
+      "name": "_DSC3611 copia.jpg",
+      "section": "getting-ready",
+      "width": 3000,
+      "height": 2000,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "assets/img-033.jpg"
+    },
+    {
+      "id": "pmuw1gzumg",
+      "name": "_DSC3643 copia.jpg",
+      "section": "getting-ready",
+      "width": 2000,
+      "height": 3000,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "assets/img-034.jpg"
+    },
+    {
+      "id": "pmuw1gzcdf",
+      "name": "_DSC3787 copia.jpg",
+      "section": "getting-ready",
+      "width": 2000,
+      "height": 3000,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "assets/img-035.jpg"
+    },
+    {
+      "id": "pmuw1gyv4e",
+      "name": "_DSC3802 copia.jpg",
+      "section": "getting-ready",
+      "width": 2000,
+      "height": 3000,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "assets/img-036.jpg"
+    },
+    {
+      "id": "pmuw1gyikd",
+      "name": "_DSC3830 copia.jpg",
+      "section": "getting-ready",
+      "width": 2000,
+      "height": 3000,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "assets/img-037.jpg"
+    },
+    {
+      "id": "pmuw1gy7lc",
+      "name": "_DSC3874 copia.jpg",
+      "section": "getting-ready",
+      "width": 3000,
+      "height": 2000,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "assets/img-038.jpg"
+    },
+    {
+      "id": "pmuw1gxv2b",
+      "name": "_DSC3904 copia.jpg",
+      "section": "getting-ready",
+      "width": 3000,
+      "height": 2000,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "assets/img-039.jpg"
+    },
+    {
+      "id": "pmuw1gxp7a",
+      "name": "_DSC3991 copia.jpg",
+      "section": "getting-ready",
+      "width": 3000,
+      "height": 2000,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "assets/img-040.jpg"
+    },
+    {
+      "id": "pmuw1gxau9",
+      "name": "_DSC4060 copia.jpg",
+      "section": "getting-ready",
+      "width": 2000,
+      "height": 3000,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "assets/img-041.jpg"
+    },
+    {
+      "id": "pmuw1gx3c8",
+      "name": "_DSC4091 copia.jpg",
+      "section": "getting-ready",
+      "width": 2000,
+      "height": 3000,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "assets/img-042.jpg"
+    },
+    {
+      "id": "pmuw1gwsv7",
+      "name": "_DSC4153 copia.jpg",
+      "section": "getting-ready",
+      "width": 2000,
+      "height": 3000,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "assets/img-043.jpg"
+    },
+    {
+      "id": "pmuw1gwhd6",
+      "name": "_DSC4169 copia.jpg",
+      "section": "getting-ready",
+      "width": 2000,
+      "height": 3000,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "assets/img-044.jpg"
+    },
+    {
+      "id": "pmuw1gw7u5",
+      "name": "_DSC4189 copia.jpg",
+      "section": "getting-ready",
+      "width": 2000,
+      "height": 3000,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "assets/img-045.jpg"
+    },
+    {
+      "id": "pmuw1gvv14",
+      "name": "_DSC4229 copia.jpg",
+      "section": "getting-ready",
+      "width": 2000,
+      "height": 3000,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "assets/img-046.jpg"
+    },
+    {
+      "id": "pmuw1gvjb3",
+      "name": "_DSC4332 copia.jpg",
+      "section": "getting-ready",
+      "width": 2000,
+      "height": 3000,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "assets/img-047.jpg"
+    }
+  ],
+  "videos": {
+    "enabled": true,
+    "eyebrow": "Video By Visual arts. ",
+    "title": "Save the date",
+    "items": [
+      {
+        "url": "https://youtu.be/eZTCX3RlHnE",
+        "label": "Video 1"
+      }
+    ],
+    "urls": [
+      "https://youtu.be/eZTCX3RlHnE"
+    ]
+  },
+  "music": {
+    "enabled": true,
+    "path": "assets/music.mp3",
+    "name": "Hasta mi final.mp3",
+    "title": "Hasta mi final",
+    "artist": "Música de la galería",
+    "playerVisible": false,
+    "autostart": false,
+    "loop": true
+  },
+  "download": {
+    "enabled": false,
+    "url": ""
+  }
+}
